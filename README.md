@@ -1,6 +1,4 @@
-# rnn_lucas_semana6.ipynb
-Atividade ponderada Modelo Preditivo RNN Semana 6.
-
+# Atividade ponderada Modelo Preditivo RNN Semana 6 - Lucas Rego G3
 A Atividade foi desenvolvida no google colab. O dataset utilizado é o arquivo daily-minimum-temperatures-in-me.csv.
 
 Link Google Colab:
